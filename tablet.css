@@ -1,0 +1,51 @@
+body {
+  font-family: Helvetica Neue, Helvetica;
+  margin: 0;
+  padding: 0;
+  color: #555;
+}
+
+#title {
+  height: auto;
+}
+
+#title h1 {
+  font-size: 52pt;
+  margin: 0;
+}
+
+.firstname {
+  font-weight: 100;
+}
+
+#nav {
+  height: 40px;
+}
+
+#nav ul {
+  width: 768px;
+  margin: 0 auto;
+  padding:0;
+  height: 40px;
+}
+
+#nav ul li {
+  width: 182px;
+  margin: 5px;
+  padding: 5px 0 5px 0;
+  font-size: 20pt;
+  font-weight: 200;
+  height: 40px;
+}
+
+#container {
+  width: 768px;
+  margin: 0 auto;
+  margin-top: 50px;
+  padding: 0;
+}
+
+.main {
+  padding: 15px;
+  width: auto;
+}
